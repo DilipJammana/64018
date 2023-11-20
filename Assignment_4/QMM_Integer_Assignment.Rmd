@@ -106,9 +106,13 @@ const <- matrix(c(0, 1, 1, 1, 1, 1, 0,
                  1, 1, 1, 1, 0, 0, 1,
                  1, 1, 1, 1, 1, 0, 0), nrow = 7, byrow = TRUE)
 
-
+const
 
 ```
+
+
+
+
 
 ```{r}
 row.signs <- rep(">=", 7)
